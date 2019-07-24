@@ -1,1 +1,0 @@
-mongodb+srv://root:<password>@cluster0-etwap.gcp.mongodb.net/test?retryWrites=true&w=majority
